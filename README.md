@@ -35,30 +35,27 @@ Além de um grande número de parcerias com Instituições de Ensino, Idiomas e 
 
 # Vagas disponíveis
 
-# Time de Hoteis
+# Time de Hoteis (2 vagas)
 
 Como faz para encontrar diárias possíveis em uma base de aproximadamente alguns gigas de dados e tendo que trabalhar com variações de atributos como: tipo de quarto, alimentação, atividades extras entre outras. Para complicar o problema ainda temos que entregar no menor tempo possível pois o usuário não esperará por muito tempo essa resposta. 
 
 Se vc gostou do problema, venha fazer parte do time. Básicamente esperamos que vc tenha os atributos seguintes:
 
-Must Have:
+***O que é preciso saber:***
 
-Ser apaixonado por desenvolvimento e tecnologia;
-Ter facilidade de trabalhar dentro de times multi-disciplinares;
-Escrever código limpo e legível para pessoas;
-Ter conhecimento e experiência em design e arquitetura de software;
-Experiência com Ruby, Python ou C/C++ (a maioria do nosso código é em Ruby!);
-Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+* Precisa ser apaixonado por desenvolvimento e tecnologia;
+* Deve entender que o trabalho em equipe é o diferencial para o sucesso;
+* Escreve código com testes por padrão;
+* Possui sólidos conhecimentos e experiência em design e arquitetura de software;
+* Domina uma linguagem de Programação
+* Tem Experiência com desenvolvimento WEB (HTML, CSS, Javascript, etc);
+* É capaz de colocar uma aplicação em ambiente de produção;
 
-Should Have:
-
-Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
-Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
-Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
-
-Nice to Have:
-
-Experiência com metodologias ágeis, como Scrum;
-Experiência com infra-estrutura de aplicações web de alta escala;
-Conhecimento de automação de deploy com Puppet, Chef, etc;
-Ser poliglota em linguagens de programação e linguagens naturais;
+***O que é um extra:***
+* Experiência em Python e/ou Go;
+* Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+* Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+* Experiência com metodologias ágeis, como Scrum;
+* Experiência com infra-estrutura de aplicações web de alta escala;
+* Conhecimento de automação de deploy com Puppet, Chef, etc;
+* Ser poliglota em linguagens de programação e linguagens naturais;

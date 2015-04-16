@@ -33,3 +33,32 @@ Envie email para recrutamento@hotelurbano.com.br com o seu CV e a área de inter
 Além de um grande número de parcerias com Instituições de Ensino, Idiomas e Lazer que possibilitam descontos muuuuito interessantes para nossos tripulantes. 
 
 
+# Vagas disponíveis
+
+# Time de Hoteis
+
+Como faz para encontrar diárias possíveis em uma base de aproximadamente alguns gigas de dados e tendo que trabalhar com variações de atributos como: tipo de quarto, alimentação, atividades extras entre outras. Para complicar o problema ainda temos que entregar no menor tempo possível pois o usuário não esperará por muito tempo essa resposta. 
+
+Se vc gostou do problema, venha fazer parte do time. Básicamente esperamos que vc tenha os atributos seguintes:
+
+Must Have:
+
+Ser apaixonado por desenvolvimento e tecnologia;
+Ter facilidade de trabalhar dentro de times multi-disciplinares;
+Escrever código limpo e legível para pessoas;
+Ter conhecimento e experiência em design e arquitetura de software;
+Experiência com Ruby, Python ou C/C++ (a maioria do nosso código é em Ruby!);
+Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+
+Should Have:
+
+Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
+Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+
+Nice to Have:
+
+Experiência com metodologias ágeis, como Scrum;
+Experiência com infra-estrutura de aplicações web de alta escala;
+Conhecimento de automação de deploy com Puppet, Chef, etc;
+Ser poliglota em linguagens de programação e linguagens naturais;

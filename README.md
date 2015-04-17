@@ -104,4 +104,34 @@ Se vc gostou do problema e tem familiaridade com as palavras: Spark, Pig, Kafka,
 ***O que é um extra:***
 
 * Mestrado, e/ou Doutorado nestas áreas.
+* 
+
+
+# Time B2B (1 vaga)
+
+Somos o time responsável por parcerias com outras empresas. Desenvolvemos o Hotel Urbano com a cara dos parceiros. Através das nossas aplicações, o público pode comprar pacotes do Hotel Urbano com os pontos do programa de pontos que mais gosta.
+Nos integramos com diversos sistemas. Nosso desafio é fazer com que essas integrações fiquem fáceis e rápidas para os usuários.
+Se vc gostou do problema, venha fazer parte do time. Básicamente esperamos que vc tenha os atributos seguintes:
+
+***O que é preciso saber:***
+
+* Precisa ser apaixonado por desenvolvimento e tecnologia;
+* Deve entender que o trabalho em equipe é o diferencial para o sucesso;
+* Escreve código com testes por padrão;
+* Tem experiência com desenvolvimento WEB (HTML, CSS, Javascript, etc);
+* Já fez uso de Sass, Less, jQuery, Bootstrap, HTML5, Angular;
+* Experiência com responsive design
+
+***O que é um extra:***
+
+* Experiência em Jasmine e Karma;
+* Experiência em testes end-to-end automatizados;
+* Conhecimento em Gulp/Grunt, Bower, NPM, NodeJS;
+* Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+* Experiência com metodologias ágeis, como Scrum;
+* Experiência com infra-estrutura de aplicações web de alta escala;
+* Conhecimento de automação de deploy com Ansible, Puppet, Chef, etc;
+* Bons conhecimentos em Scala e/ou Ruby;
+* Conhecimentos de NoSQL;
+* Conhecimento com Finagle
 

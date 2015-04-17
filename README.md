@@ -104,7 +104,6 @@ Se vc gostou do problema e tem familiaridade com as palavras: Spark, Pig, Kafka,
 ***O que é um extra:***
 
 * Mestrado, e/ou Doutorado nestas áreas.
-* 
 
 
 # Time B2B (1 vaga)

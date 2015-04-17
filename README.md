@@ -59,3 +59,35 @@ Se vc gostou do problema, venha fazer parte do time. Básicamente esperamos que 
 * Experiência com infra-estrutura de aplicações web de alta escala;
 * Conhecimento de automação de deploy com Puppet, Chef, etc;
 * Ser poliglota em linguagens de programação e linguagens naturais;
+
+
+# Time Home/Especiais (2 vagas)
+
+Rock-in-Rio, Black Friday, UFC se vc gosta de desenvolver novas experiências de consumo que ajudam ao usuário a encontrar sua viagem dos sonhos, vc deveria fazer parte deste time. Pra gente a experiência de uso das nossas ferramentas é crucial para o aumento de conversão contúdo precisamos garantir tempo de resposta e atender a demanda de acesso de 20 milhões de usuários.  
+
+Se vc gostou do problema, venha fazer parte do time. Básicamente esperamos que vc tenha os atributos seguintes:
+
+***O que é preciso saber:***
+
+* Precisa ser apaixonado por desenvolvimento e tecnologia;
+* Deve entender que o trabalho em equipe é o diferencial para o sucesso;
+* Escreve código com testes por padrão;
+* Domina uma linguagem de Programação
+* Tem Experiência com desenvolvimento WEB (HTML, CSS, Javascript, etc);
+* É capaz de colocar uma aplicação em ambiente de produção;
+* Já fez uso de Sass, Less, jQuery, Bootstrap, HTML5
+
+***O que é um extra:***
+
+* Experiência em Jasmine, Underscore.js, Angularjs;
+* Experência em selenium, Web-ki;
+* Conhece Gulp/Grunt, Ember, Backbone, Bower, NPM, NodeJS;
+* Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+* Experiência com metodologias ágeis, como Scrum;
+* Experiência com infra-estrutura de aplicações web de alta escala;
+* Conhecimento de automação de deploy com Puppet, Chef, etc;
+* Bons conhecimentos em Ruby/Python ou Scala;
+
+ 
+
+

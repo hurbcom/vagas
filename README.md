@@ -89,7 +89,7 @@ Se vc gostou do problema, venha fazer parte do time. Básicamente esperamos que 
 * Bons conhecimentos em Ruby/Python ou Scala;
 
  
-# Time Busca/Bigdata (1 vagas)
+# Time Busca/Bigdata (1 vaga)
 
 Se você gosta de Machine Learning, Information Retrieval e é alucinado por processar grandes volumes de dados essa é a sua equipe. Cuidamos te toda infraestrutura e desenvolvimento da nossa plataforma de busca e recomendação, além de alimentar toda nossa engine de processamento de grandes volumes de dados.
 

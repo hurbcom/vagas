@@ -1,8 +1,6 @@
 var path = require('path')
 var webpack = require('webpack')
 
-console.log('NAME', __dirname)
-
 module.exports = {
   devtool: 'eval',
   entry: [

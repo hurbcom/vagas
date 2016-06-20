@@ -31,7 +31,6 @@ export function fetchPositions () {
     })
     .then(mapPositions)
     .then((positions) => {
-      console.log('POSITIONS', positions)
       dispatch(receivePositions(positions))
     })
   }

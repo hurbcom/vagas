@@ -9,12 +9,6 @@ var server = new WebpackDevServer(webpack(config), {
   stats: {
     colors: true,
   },
-  proxy: {
-    '/api/': {
-      target: 'http://localhost:8080/',
-      secure: false,
-    },
-  },
 })
 
 server.listen(3000, 'localhost', function (err) {

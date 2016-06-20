@@ -14,16 +14,16 @@ export default class Header extends Component {
           </h2>
           <div className="hu-highlights">
             <div className="row">
-              <div className="col-md-3 hu-highlight">
+              <div className="col-md-3 col-xs-6 hu-highlight">
                 <strong>180.000</strong> hotéis
               </div>
-              <div className="col-md-3 hu-highlight">
+              <div className="col-md-3 col-xs-6 hu-highlight">
                 <strong>18 milhões</strong> de usuários
               </div>
-              <div className="col-md-3 hu-highlight">
+              <div className="col-md-3 col-xs-6 hu-highlight">
                 <strong>A cada 8 segundos</strong> uma nova diária
               </div>
-              <div className="col-md-3 hu-highlight">
+              <div className="col-md-3 col-xs-6 hu-highlight">
                 <strong>20 milhões</strong> de buscas mensais
               </div>
             </div>

@@ -32,10 +32,10 @@ export default class Benefits extends Component {
           { this.state.benefits.map((benefit, index) => (
             <div key={index} className="list-group-item">
               <div className="row">
-                <div className="col-md-5">
+                <div className="col-md-5 col-sm-5 col-xs-6">
                   <strong>{benefit.key}</strong>
                 </div>
-                <div className="col-md-7">
+                <div className="col-md-7 col-sm-7 col-xs-6">
                   <p>{benefit.value === true ? (<i className="fa fa-check text-success" aria-hidden="true"></i>) : benefit.value}</p>
                   { benefit.obs ? (
                     <small className="text-info">{benefit.obs}</small>

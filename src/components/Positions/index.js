@@ -6,17 +6,16 @@ import './style.less'
 export default class Positions extends Component {
   render () {
     let { positions } = this.props
-    let Content = (<span />)
+    let Content = (<span>Carregando... </span>)
 
     if (!positions.isFetching) {
       Content = positions.list.map((position, index) => {
-        console.log(position)
         return (
           <div key={index} className="panel panel-default">
             <div className="panel-heading">
               <h3>
-                {position.team} - {position.quantity > 1 ? `${position.quantity} vagas` : '1 vaga'}
-                <a className="pull-right btn btn-primary hu-btn-apply" href={`mailto:recrutamento@hotelurbano.com.br?subject=${position.team}`}>Aplicar</a>
+                <span className="hu-position-team">{position.team}</span> <span className="hidden-xs">-</span> <span className="hu-position-quantity">{position.quantity > 1 ? `${position.quantity} vagas` : '1 vaga'}</span>
+                <a className="pull-right btn btn-primary hu-btn-apply hidden-xs" href={`mailto:recrutamento@hotelurbano.com.br?subject=${position.team}`}>Aplicar</a>
               </h3>
             </div>
 
@@ -45,6 +44,10 @@ export default class Positions extends Component {
               ) : null}
             </div>
 
+            <div className="panel-footer visible-xs-block">
+              <a className="btn btn-block btn-primary hu-btn-apply" href={`mailto:recrutamento@hotelurbano.com.br?subject=${position.team}`}>Aplicar</a>
+            </div>
+
           </div>
         )
       })
@@ -63,7 +66,7 @@ export default class Positions extends Component {
               {Content}
             </div>
             <div className="col-md-4">
-              <Sticky>
+              <Sticky isActive={window.outerWidth > 500}>
                 <Benefits />
               </Sticky>
             </div>
@@ -77,7 +80,3 @@ export default class Positions extends Component {
 Positions.propTypes = {
   positions: PropTypes.object.isRequired,
 }
-
-// { positions.list.map((position, index) =>
-//   <h1 key={index}>{position.title}</h1>
-// )}

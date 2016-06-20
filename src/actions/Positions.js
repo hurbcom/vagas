@@ -27,7 +27,7 @@ export function fetchPositions () {
       // return fetch('http://hu.workable.com/api/jobs')
       setTimeout(() => {
         resolve(data)
-      }, 500)
+      }, 250)
     })
     .then(mapPositions)
     .then((positions) => {

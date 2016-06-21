@@ -24,3 +24,13 @@ npm run deploy
 ```
 
 ## [Live preview](https://leandrooriente.github.io/facapartedotimehu/)
+
+## Project Stack
+
+- React
+- Redux
+- Less
+- Bootstrap
+- Lodash (underscore)
+- Webpack (bundle/es6)
+- Gulp (deploy)

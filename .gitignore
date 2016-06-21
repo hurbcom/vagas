@@ -4,3 +4,4 @@ cache
 **/.DS_Store
 dist
 npm-debug.log
+.publish

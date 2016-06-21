@@ -2,14 +2,8 @@ var path = require('path')
 var webpack = require('webpack')
 
 module.exports = {
-  devtool: 'eval',
   entry: {
-    app: [
-      'webpack-dev-server/client?http://localhost:3000',
-      'webpack/hot/only-dev-server',
-      'react-hot-loader/patch',
-      './src/index',
-    ],
+    app: [path.join(__dirname, './src/index')],
     vendors: [
       'react',
       'react-dom',
@@ -26,7 +20,17 @@ module.exports = {
   },
   plugins: [
     new webpack.optimize.CommonsChunkPlugin('vendors', 'vendors.bundle.js', Infinity),
-    new webpack.HotModuleReplacementPlugin(),
+    new webpack.optimize.OccurenceOrderPlugin(),
+    new webpack.NoErrorsPlugin(),
+    new webpack.DefinePlugin({
+      __DEVELOPMENT__: false,
+    }),
+    new webpack.DefinePlugin({
+      'process.env': {
+        'NODE_ENV': JSON.stringify('production'),
+      },
+    }),
+    new webpack.optimize.UglifyJsPlugin(),
   ],
   resolve: {
     alias: {
@@ -62,6 +66,7 @@ module.exports = {
     {
       test: /\.(png|jpg|jpeg|gif|svg|woff|woff2)$/,
       loader: 'url-loader?limit=8192',
+      include: path.join(__dirname, './src'),
     }],
   },
 }

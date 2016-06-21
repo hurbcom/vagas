@@ -1,0 +1,70 @@
+.hu-positions {
+  .panel {
+    margin-bottom: 100px;
+
+    h3 {
+      margin: 10px 0;
+    }
+
+    h4 {
+      margin: 40px 0 25px;
+    }
+
+    li {
+      font-size: 16px;
+      margin-bottom: 7px;
+    }
+
+    &:first-child { margin-top: 15px; }
+    &:hover {
+      .hu-btn-apply {
+        animation: pulse 1.5s infinite;
+      }
+    }
+  }
+  .panel-body {
+    padding-bottom: 55px;
+  }
+}
+
+.hu-position-description {
+  margin: 25px 0;
+  font-size: 16px;
+}
+
+.hu-btn-apply {
+  position: relative;
+  top: -4px;
+  background: #ec6952;
+  border-color: darken(#ec6952, 10%);
+
+  &:hover {
+    background: darken(#ec6952, 10%);
+    border-color: darken(#ec6952, 20%);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+@media (max-width: 500px) {
+  .hu-btn-apply {
+    margin: 10px 0 0;
+  }
+  .hu-position-quantity {
+    display: block;
+    margin-top: 5px;
+    color: #666;
+    font-size: 16px;
+  }
+}

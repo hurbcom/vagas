@@ -4,6 +4,7 @@ import { bindActionCreators } from 'redux'
 import Header from 'components/Header'
 import Positions from 'components/Positions'
 import Presentation from 'components/Presentation'
+import Footer from 'components/Footer'
 import { fetchPositions } from 'actions/Positions'
 
 class Hiring extends Component {
@@ -20,6 +21,7 @@ class Hiring extends Component {
           <Presentation />
           <Positions positions={this.props.positions} />
         </div>
+        <Footer />
       </div>
     )
   }

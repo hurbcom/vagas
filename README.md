@@ -89,3 +89,52 @@ Se vc gostou do problema, venha fazer parte do time. Básicamente esperamos que 
 * Conhecimento de orquestração de deploy;
 * Conhecimento de Docker;
 
+
+# Devops (1 vaga)
+
+Você é DevOps com a experiência? Estamos à procura de um novo talento que irá se juntar à nossa equipe de Infraestrutura.
+Torne-se parte da nossa equipe:
+No Hotel Urbano acreditamos que a cada dia apresenta uma oportunidade de aprender e crescer. Desafiamos os nossos tripulantes a um ambiente focado, criativo e dinâmico.  Acreditamos em uma forma positiva e responsável do trabalho, o que é claramente refletida em nossa cultura aberta. Aqui, aprendemos uns com os outros e valor de confiança mais do que focando hierarquia. Nosso objetivo é inspirar os viajantes e torná-los fãs ao longo da vida.
+
+***Seu desafio***
+
+Você vai começar o dia com um stand-up com a equipe de engenharia. Durante o dia você vai trabalhar em estreita colaboração com a nossa equipe de engenharia e são responsáveis ​​para melhorar a nossa infraestrutura de servidor crescendo, ferramentas de implantação, sistemas de recuperação / emergência e check-up sobre a segurança do nosso site. Além disso, você vai nos ajudar a dimensionar a nossa equipe, minimizando o custo de instalação e manutenção de automação de teste. Suas habilidades de comunicação permitem que você alterne entre todos os níveis da organização e você pode traduzir detalhes para os usuários finais facilmente. Você é um gogetter adaptável e você gostaria de trabalhar em um ambiente rápido. Você está determinado a contribuir para o crescimento do site do HU.
+
+***O que é preciso saber:***
+
+* Inteligente (Bacharelado), de preferência na área de TI / Desenvolvimento ou áreas a fins;
+* Mora no paraíso tropical do Rio de Janeiro ou está disponível para mudar (estamos na Barra da Tijuca)
+* Familiarizado com desenvolvimento ágil;
+* Gosta de gente;
+* Sabe gerenciar  AWS (S3, Cloudfront, Route53, Elastic Cache, RDS, EC2);
+* Sabe sobre integração continua (Jenkins, Travis CI ou outro);
+* Gerenciamento de servidor Web (Nginx, apache );
+* Tem Conhecimento em redes;
+* Sabe sobre sistemas de monitoramento (New Relic, Zabbix, Nagios etc.);
+* Conhece UNIX + shell script;
+* Conhece Docker e Git;
+* Ótimo conhecimento em desenvolvimento Web;
+* Conhecimento em Python.
+ 
+***O que é um extra:***
+
+* Você ter experiência com ElasticSearch e Kibana;
+* Saber Centralização de Logs;
+* Ter experiência com microserviços;
+* Saber sobre gerenciador de configuração (Chef, Puppet, Ansible etc.);
+* Possuir experiência com banco de dados relacional e não relacional;
+* Ter alguma experiência com javascript;
+* Conhecimento em outras linguagens de programação.
+ 
+***estamos contratando assim***
+
+CLT (Efetivo), temos horários flexíveis;
+Remuneração será de acordo com seu desafio técnico. Mas não tem problema de me dizer quanto quer ganhar;
+Vale-Transporte ou auxílio combustível;
+Estacionamento no local, com um valor bem em conta;
+Vale Refeição/Alimentação;
+Planos de saúde e odontológico;
+Auxílio creche;
+Seguro de vida;
+Convênio farmácia;
+Crédito mensal para viagens no site do HU.

@@ -136,5 +136,4 @@ Vale Refeição/Alimentação;
 Planos de saúde e odontológico;
 Auxílio creche;
 Seguro de vida;
-Convênio farmácia;
-Crédito mensal para viagens no site do HU.
+Convênio farmácia.

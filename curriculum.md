@@ -42,24 +42,26 @@ ___________________________________________________________
     
 * Abril 2016 - presente (Gestor da equipe de Front end)
 * Julho 2015 - Março 2016 (Desenvolvedor mobile Phonegap/Cordova)
-___________________________________________________________
+
+___
 
 >BT Service
 
 * Abril 2014 - Janeiro 2015 (Gerente de Marketing e Desenvolvimento)
-___________________________________________________________
+
+___
 
 >Consórcio Maracanã (Odebrecht Infraestrutura)
 
 * 2010 - 2014 (Designer)
 
-___________________________________________________________
+___
 
 >Tecnologia e Design Empresa Jr.
 
 * 2009 - 2012 (Co-fundador e Diretor de Projetos)
 
-___________________________________________________________
+___
 
 >Technip Engenharia
 

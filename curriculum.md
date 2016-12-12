@@ -34,6 +34,7 @@ Fico à disposição para entrevistas presenciais ou por voz (skype, telefone, w
 
 ##Formação
 >Design Digital - Instituto Infnet (2010)
+
 ___________________________________________________________
 ___________________________________________________________
 
@@ -74,6 +75,7 @@ ___________________________________________________________
 ##Know-how
 
 >**Javascript**
+
 ```javascript
 //Retorna a lista dos meus conhecimentos técnicos
 var fs = require('fs');
@@ -92,6 +94,7 @@ module.exports = function(){
 ```
 
 >**HTML5** 
+
 ```html
 <body>
     <section>
@@ -101,10 +104,11 @@ module.exports = function(){
 ```
 
 >**CSS3** - LESS/SASS 
+
 ```sass
 html, body, div, a { reset: apenas quando necessário; }
 
-#meuID { unicamente: para manipular DOM com javascript/jquery}
+&#35meuID { unicamente: para manipular DOM com javascript/jquery}
 
 .minhaClasse { estruturada: para máximo reaproveitamento; }
 
@@ -117,7 +121,9 @@ html, body, div, a { reset: apenas quando necessário; }
   font-size: ~"@{valor-final}rem";
 }
 ```
+
 >**Drupal 7**
+
 ```php
 <?php
 //Modelo básico para retornar conteúdo com o módulo Entity para Drupal 7
@@ -151,6 +157,7 @@ function get_member_list($content_type){
     } catch (Exception $e) { return false; }}
 ?>
 ```
+
 ___________________________________________________________
 ___________________________________________________________
 

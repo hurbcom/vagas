@@ -108,7 +108,7 @@ module.exports = function(){
 ```sass
 html, body, div, a { reset: apenas quando necessário; }
 
-&#35meuID { unicamente: para manipular DOM com javascript/jquery}
+#meuID { unicamente: para manipular DOM com javascript/jquery}
 
 .minhaClasse { estruturada: para máximo reaproveitamento; }
 

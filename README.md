@@ -125,6 +125,38 @@ Você vai começar o dia com um stand-up com a equipe de engenharia. Durante o d
 * Possuir experiência com banco de dados relacional e não relacional;
 * Ter alguma experiência com javascript;
 * Conhecimento em outras linguagens de programação.
+
+# Desenvolvedor(a) Android
+
+Faça parte do time HU. Uma das maiores agências de turismo online do mundo precisa do seu talento. Estamos procurando um desenvolvedor Android para nosso aplicativo!
+Procuramos pessoas inteligentes e ágeis como você para nos ajudar a resolver os nossos desafios.
+
+
+***Seu desafio***
+Você participará de discussões de produto e irá propor a melhor solução técnica para o problema em questão. Você vai trabalhar, no seu dia-a-dia, com o desenvolvimento de aplicações e ferramentas para melhoria do processo de desenvolvimento, sempre buscando a alta disponibilidade e qualidade, atuando dentro de um time multidisciplinar.
+
+
+***O que é preciso saber:***
+
+- 3+ anos de experiência com Android
+- Confortável com padrão MVP, MVC, MVVM e derivados
+- Ter facilidade para trabalhar dentro de times multi-disciplinares;
+- Saber escrever código limpo e legível;
+- Possuir conhecimentos de integração utilizando API RESTful;
+- Ter conhecimento de práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+- Conhecer e ter experiência com testes unitários, de aceitação, mocks, etc;
+- Saber trabalhar com ferramentas de controle de versão;
+- Experiência com RxJava
+ 
+***O que é um extra:***
+
+- Experiência com Espresso e UI Automator
+- Ter experiência com Kotlin;
+- Conhecimentos de desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+- Ter experiência com React Native;
+- Ter experiência com Objective C e/ou Swift;
+- Conhecimentos de automação de publicação de aplicações (fabric, etc);
+
  
 ***estamos contratando assim***
 
@@ -137,3 +169,7 @@ Planos de saúde e odontológico;
 Auxílio creche;
 Seguro de vida;
 Convênio farmácia.
+
+
+
+

@@ -21,12 +21,12 @@ Números do Hotel Urbano:
 
 # Vagas
 
-Confira a listagem das vagas nos [branches](https://github.com/HotelUrbano/vagas/branches)
+Confira a listagem das vagas nos [branches](https://github.com/HotelUrbano/vagas/branches).
 
-# Interessado nessa viagem??
+# Interessado nessa viagem?!
 
-- Escolha uma as vagas disponíveis [branches](https://github.com/HotelUrbano/vagas/branches) e abra uma issue com o nome da `branch` no título e envie o seu currículo no corpo da issue. Nosso slack vai nos avisar ;)
-- Entre no nosso banco de currículos através do [gentehu](http://viajar.hu/gentehu) ou crie uma issue em [vagas](https://github.com/HotelUrbano/vagas/issues) com *curriculo* como título da issue.
+- Escolha uma das vagas disponíveis nas [branches](https://github.com/HotelUrbano/vagas/branches) e abra uma issue com o nome da `branch` no título e envie o seu currículo no corpo da issue. Nosso slack vai nos avisar ;)
+- Entre no nosso banco de currículos através do [gentehu](http://viajar.hu/gentehu) ou crie uma issue em [vagas](https://github.com/HotelUrbano/vagas/issues) com *currículo* como título da issue.
 
 
 É dev? É devops? Quer ajudar as pessoas a viajar? Abra uma issue!

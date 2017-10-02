@@ -1,6 +1,8 @@
 <p align="center">
+  <strong>Grupo</strong><br>
   <img src="https://avatars1.githubusercontent.com/u/7063040?v=4&s=200.jpg" alt="FrontEndBR" width="230" />
 </p>
+
 
 # Faça parte da família HU
 

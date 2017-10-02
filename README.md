@@ -11,12 +11,11 @@ Procuramos pessoas inteligentes e ágeis como você para nos ajudar a resolver d
 A visão do Hotel Urbano é realizar o match dos nossos usuários com a viagem dos sonhos.
 
 Números do Hotel Urbano:
-
-mais de 150.000 hotéis ao redor do mundo;
-18 milhões de viajantes cadastrados;
-1 diária vendida a cada 8 segundos;
-20 milhões de pessoas buscando viagens todo mês;
-12 milhões de fans no facebook;
+- mais de 150.000 hotéis ao redor do mundo;
+- 18 milhões de viajantes cadastrados;
+- 1 diária vendida a cada 8 segundos;
+- 20 milhões de pessoas buscando viagens todo mês;
+- 12 milhões de fans no facebook;
 
 # Vagas
 

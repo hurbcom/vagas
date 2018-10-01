@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Grupo</strong><br>
-  <img src="https://avatars1.githubusercontent.com/u/7063040?v=4&s=200.jpg" alt="FrontEndBR" width="230" />
+  <img src="https://avatars1.githubusercontent.com/u/7063040?v=4&s=200.jpg" alt="HURB" width="230" />
 </p>
 
 
@@ -8,9 +8,9 @@
 
 Uma das maiores agências de turismo online do mundo precisa do seu talento.
 
-Procuramos pessoas inteligentes e ágeis como você para nos ajudar a resolver desafios de escalabilidade e performance. Trabalhamos com diversas linguagens, como Python, Go, NodeJS e PHP, além de tecnologias como Elastic Search, Redshift e Docker, acreditamos na filosofia "release early, release often". Aqui não tem embromação. 🔪💀
+Procuramos pessoas inteligentes e ágeis como você para nos ajudar a resolver desafios de escalabilidade e performance. Trabalhamos com diversas linguagens, como Python, GoLang, NodeJS, PHP, Kotlin, além de tecnologias como Elasticsearch, React e Docker, acreditamos na filosofia "release early, release often". Aqui não tem embromação. 🔪💀
 
-A visão do Hotel Urbano é realizar o match dos nossos usuários com a viagem dos sonhos.
+A visão do Hurb é realizar o match dos nossos usuários com a viagem dos sonhos.
 <p align="center">
 <a href="https://imgflip.com/i/1xg8s5"><img src="https://i.imgflip.com/1xg8s5.jpg" title="made at imgflip.com"/></a>
 </p>
@@ -32,4 +32,4 @@ Selecione uma das opções abaixo:
 - Entre no nosso banco de currículos através do [gentehu](http://viajar.hu/gentehu).
 
 
-É dev? É devops? Quer ajudar a promover uma experiência na vida de alguma pessoa? Abra uma `issue`!
+É dev? É devops? Quer ajudar a promover uma ótima experiência na vida de alguma pessoa? Abra uma `issue`!

@@ -4,7 +4,7 @@
 </p>
 
 
-# Faça parte da família HU
+# Faça parte da família Hurb
 
 Uma das maiores agências de turismo online do mundo precisa do seu talento.
 

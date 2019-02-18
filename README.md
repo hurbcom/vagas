@@ -24,11 +24,11 @@ Números do Hotel Urbano:
 
 # Vagas
 
-Confira a listagem das vagas nos [branches](https://github.com/HotelUrbano/vagas/branches).
+Confira a listagem das vagas nos [branches](https://github.com/hurbcom/vagas/branches).
 
 # Interessado nessa viagem?!
 Selecione uma das opções abaixo:
-- Escolha as vagas que lhe interesse na listagem das [branches](https://github.com/HotelUrbano/vagas/branches) e abra uma `issue` com o nome da `branch` no título e envie o seu currículo no corpo da `issue`, já vai vir formatado o markdown para você montar o seu cv. Daí nosso slack vai nos avisar ;)
+- Escolha as vagas que lhe interesse na listagem das [branches](https://github.com/hurbcom/vagas/branches) e abra uma `issue` com o nome da `branch` no título e envie o seu currículo no corpo da `issue`, já vai vir formatado o markdown para você montar o seu cv. Daí nosso slack vai nos avisar ;)
 - Entre no nosso banco de currículos através do [gentehu](http://viajar.hu/gentehu).
 
 

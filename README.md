@@ -26,5 +26,3 @@ Números do Hotel Urbano:
 # Vagas
 
 Confira a [listagem](https://hurb.gupy.io/) das vagas.
-
-É dev? É devops? Quer ajudar a promover uma ótima experiência na vida de alguma pessoa? Abra uma `issue`!

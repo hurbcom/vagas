@@ -25,4 +25,4 @@ Números do Hotel Urbano:
 
 # Vagas
 
-Confira a [listagem](https://hurb.gupy.io/) das vagas.
+Confira a [listagem](https://www.lifeathurb.com/vagas) das vagas.
